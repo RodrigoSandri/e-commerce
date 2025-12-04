@@ -43,7 +43,6 @@ export function CartContextProvider({ children }) {
     setCart((prev) => {
       const existing = prev.find((item) => item.id === product.id);
 
-      // Já existe no carrinho
       if (existing) {
         const novaQtd = existing.quantidade + delta;
 

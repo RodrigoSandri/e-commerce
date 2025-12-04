@@ -17,7 +17,7 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/carrinho" element={<Cart />} />
           <Route path="/produto/:id" element={<ProductDetails />} />
-          <Route path="/cadastro" element={<CreateProduct />} /> {/* corrigido */}
+          <Route path="/cadastro" element={<CreateProduct />} /> 
           <Route path="/editar/:id" element={<EditProduct />} />
           <Route path="*" element={<NotFound />} />
         </Route>

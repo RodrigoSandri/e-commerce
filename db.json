@@ -104,6 +104,15 @@
       "image": "https://i.imgur.com/abc123.jpg",
       "category": "Teclado",
       "stock": 15
+    },
+    {
+      "id": "724e",
+      "name": "Notebook Gamer Acer Nitro 5x",
+      "description": "Notebook gamer com Intel i7, 16GB RAM, SSD 512GB e GTX 1650.",
+      "price": "5299.00",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.TzMjqTi9pp6eS2KKYE9OpwAAAA?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "category": "Notebook",
+      "stock": "10"
     }
   ]
 }
